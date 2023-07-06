@@ -1,0 +1,24 @@
+*{margin: 0px; padding: 0px;}
+.nav{background-color:rgb(141, 170, 10); color: whitesmoke; display: flex; align-items: center; justify-content: space-around; list-style: none;}
+.lgo{height: 65px; padding: 5px;}
+.menu{ display: flex; padding: 5px;}
+.li{ margin-right: 20px; padding:5px; cursor: pointer; font-size: 20px; font-weight: 400; }
+.li:hover{color: rgb(172, 32, 32);}
+
+.banner{ display: flex; align-items: center; height: 100vh; border: 2px; justify-content: space-around; background-image: url(/picture/banner/banner3.jpg); color: aliceblue;}
+
+.h1{ font-size: 40px; color: rgb(211, 154, 9); font-weight: 600; font-style: italic;}
+.p{ margin-top: 10px; font-size: 20px; font-weight: 300;color: rgb(238, 101, 51);}
+
+.ll{margin: 10px; font-size: 20px; font-weight: 500;}
+
+.btn{margin:8px; padding: 5px;color: rgb(255, 238, 217); background-color: red; font-size: 15px; border: 0px; cursor: pointer; font-weight: 500;}
+.btn:hover{color:rgb(34, 32, 153);}
+
+.felx{ display: flex; justify-content: space-around; align-items: center;}
+
+.b1{ text-align: center; padding: 20px; font-size: 50px; font-weight: 600; color:brown;}
+
+.final{background-image: url(/picture/banner/about_us.png); background-color: rgb(31, 199, 157);}
+.s2{ font-size: 30px; font-weight: 900; color:rgb(143, 16, 168); margin-bottom: 5px;}
+.p2{font-size: 20px; font-weight: 700; color:rgb(199, 6, 6); }
